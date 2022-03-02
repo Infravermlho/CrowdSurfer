@@ -1,6 +1,8 @@
 # CrowdSurfer
-Grupo de trabalho Eng. Software
+#### Grupo de trabalho Eng. Software
+
 > ***INTEGRANTES***:
+> 
 >   Hugo Shiniti Nishimoto - 32048416
 >   
 >   Vinícius Rodrigues Figueira de Faria - 32013639
