@@ -1,4 +1,5 @@
 # CrowdSurfer
+Documentação se encontra na [WIKI](https://github.com/Infravermlho/CrowdSurfer/wiki)
 #### Grupo de trabalho Eng. Software
 
 > ***INTEGRANTES***:
